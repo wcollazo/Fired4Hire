@@ -1,0 +1,26 @@
+#space {
+    height: 20px;
+    
+}
+
+#sort {
+    height: 90px;
+    width: 200px;
+    border: dotted;
+}
+#chef {
+    height: 200px;
+    width:300px;
+}
+#cake {
+    height:200px;
+    width:300px;
+}
+#PM {
+    height:200px;
+    width:200px;
+}
+#TA {
+    height:200px;
+    width: 350px;
+}

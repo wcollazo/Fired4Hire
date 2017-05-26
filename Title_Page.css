@@ -1,0 +1,26 @@
+.words {text-align: center;
+    
+}
+#volunteer {float: right;
+    background-color: yellow;
+    border: solid;
+    color: blue;
+    margin: 90px;
+    height: 100px;
+    width: 200px;
+}
+#worker {float: left;
+    background-color: red;
+    margin: 90px;
+    height: 100px;
+    width: 200px;
+    
+    
+}
+    
+.s {height: 90px;}
+
+body {
+    background-image:url("https://betagrowth.files.wordpress.com/2015/06/office-desk-background-2.jpg");
+    
+}
